@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **kdwivedi343@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KioDMTrI2yzwVTnycr4i-ZPM0hkKAuIP/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12yXRz353VwwRPfhuuC8sdLPJVSKpxXtP/view)
 
 - ⚡ Fun fact **Programming is an art as much as it is a science!**
 
