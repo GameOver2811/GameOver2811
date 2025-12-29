@@ -1,7 +1,6 @@
 # 👋 Hello, World! I'm Krishna Kant Dwivedi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GameOver2811&color=blue&style=flat-square)
-[![Portfolio](https://img.shields.io/badge/Portfolio-krishnadwivedi.me-24292e?style=flat-square&logo=google-chrome)](https://www.krishnadwivedi.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-kant-dwivedi/)
 [![GitHub](https://img.shields.io/github/followers/GameOver2811?label=Follow&style=flat-square&logo=github)](https://github.com/GameOver2811)
 
